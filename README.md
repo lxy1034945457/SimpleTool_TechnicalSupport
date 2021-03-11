@@ -1,1 +1,4 @@
-# SimpleTool_TechnicalSupport
+
+简易的网球记分小工具，简单的记录一下网球比赛比分，闲暇时间使用使用。
+
+如果您有任何问题，可以联系我们的官方邮箱:yanhezxcc@icloud.com，感谢您的支持
